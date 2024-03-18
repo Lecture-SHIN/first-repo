@@ -2,3 +2,4 @@ function1();
 function2();
 function3();
 hj();
+sw();
